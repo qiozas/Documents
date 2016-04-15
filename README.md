@@ -1,1 +1,1 @@
-This repository contains all my documents that may be useful.
+This repository contains all my documents that might be useful.
